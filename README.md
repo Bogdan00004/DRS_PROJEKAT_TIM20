@@ -1,2 +1,2 @@
-# DRS_PROJEKAT_TIM4
+# DRS_PROJEKAT_TIM20
 Projektni zadatak iz predmeta distribuirani računarski sistemi.
